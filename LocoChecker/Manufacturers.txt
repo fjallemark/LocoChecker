@@ -1,0 +1,161 @@
+﻿CML Electronics Limited 1 0x01 1 UK
+Train Technology 10 0x02 2 BE
+NCE Corporation (formerly North Coast Engineering) 1011 0x0B 11 US
+Wangrow Electronics 1100 0x0C 12 US
+Public Domain & Do-It-Yourself Decoders 1101 0x0D 13 -
+PSI –Dynatrol 1110 0x0E 14 US
+Ramfixx Technologies (Wangrow) 1111 0x0F 15 CA/US
+Advance IC Engineering 10001 0x11 17 US
+JMRI 10010 0x12 18 US
+AMW 10011 0x13 19 AT
+T4T – Technology for Trains GmbH 10100 0x14 20 DE
+Kreischer Datentechnik 10101 0x15 21 DE
+KAM Industries 10110 0x16 22 US
+S Helper Service 10111 0x17 23 US
+MoBaTron.de 11000 0x18 24 DE
+Team Digital, LLC 11001 0x19 25 US
+MBTronik – PiN GITmBH 11010 0x1A 26 DE
+MTH Electric Trains, Inc. 11011 0x1B 27 US
+Heljan A/S 11100 0x1C 28 DK
+Mistral Train Models 11101 0x1D 29 BE
+Digsight 11110 0X1E 30 CN
+Brelec 11111 0x1F 31 BE
+Regal Way Co. Ltd 100000 0x20 32 HKG
+Praecipuus 100001 0x21 33 CA
+Aristo-Craft Trains 100010 0x22 34 US
+Electronik & Model Produktion 100011 0x23 35 SE
+DCCconcepts 100100 0x24 36 AU
+NAC Services, Inc 100101 0x25 37 US
+Broadway Limited Imports, LLC 100110 0x26 38 US
+Educational Computer, Inc. 100111 0x27 39 US
+KATO Precision Models 101000 0x28 40 JP
+Passmann 101001 0x29 41 DE
+Digirails 101010 0x2A 42 NL
+Ngineering 101011 0x2B 43 US
+SPROG-DCC 101100 0x2C 44 UK
+ANE Model Co, Ltd 101101 0x2D 45 TWN
+GFB Designs 101110 0x2E 46 UK
+Capecom 101111 0x2F 47 AU
+Hornby Hobbies Ltd 110000 0x30 48 UK
+Joka Electronic 110001 0x31 49 DE
+N&Q Electronics 110010 0x32 50 ESP
+DCC Supplies, Ltd 110011 0x33 51 UK
+Krois-Modell 110100 0x34 52 AT
+Rautenhaus Digital Vertrieb 110101 0x35 53 DE
+TCH Technology 110110 0x36 54 US
+QElectronics GmbH 110111 0x37 55 DE
+LDH 111000 0x38 56 ARG
+Rampino Elektronik 111001 0x39 57 DE
+KRES GmbH 111010 0x3A 58 DE
+Tam Valley Depot 111011 0x3B 59 US
+Bluecher-Electronic 111100 0x3C 60 DE
+TrainModules 111101 0x3D 61 HUN
+Tams Elektronik GmbH 111110 0x3E 62 DE
+Noarail 111111 0x3F 63 AUS
+Digital Bahn 1000000 0x40 64 DE
+Gaugemaster 1000001 0x41 65 UK
+Railnet Solutions, LLC 1000010 0x42 66 US
+Heller Modenlbahn 1000011 0x43 67 DE
+MAWE Elektronik 1000100 0x44 68 CH
+E-Modell 1000101 0x45 69 DE
+Rocrail 1000110 0x46 70 DE
+New York Byano Limited 1000111 0x47 71 HK
+MTB Model 1001000 0x48 72 CZE
+The Electric Railroad Company 1001001 0x49 73 US
+PpP Digital 1001010 0x4A 74 ESP
+Digitools Elektronika, Kft 1001011 0x4B 75 HUN
+Auvidel 1001100 0x4C 76 DE
+LS Models Sprl 1001101 0x4D 77 BEL
+Tehnologistic (train-O-matic) 1001110 0x4E 78 ROM
+Hattons Model Railways 1001111 0x4F 79 UK
+Spectrum Engineering 1010000 0x50 80 US
+GooVerModels 1010001 0x51 81 BEL
+HAG Modelleisenbahn AG 1010010 0x52 82 CHE
+JSS-Elektronic 1010011 0x53 83 DE
+Railflyer Model Prototypes, Inc. 1010100 0x54 84 CAN
+Uhlenbrock GmbH 1010101 0x55 85 DE
+Wekomm Engineering, GmbH 1010110 0x56 86 DE
+RR-Cirkits 1010111 0x57 87 US
+HONS Model 1011000 0x58 88 HKG
+Pojezdy.EU 1011001 0x59 89 CZE
+Shourt Line 1011010 0x5A 90 US
+Railstars Limited 1011011 0x5B 91 US
+Tawcrafts 1011100 0x5C 92 UK
+Kevtronics cc 1011101 0x5D 93 ZAF
+Electroniscript, Inc. 1011110 0x5E 94 US
+Sanda Kan Industrial, Ltd. 1011111 0x5F 95 HKG
+PRICOM Design 1100000 0x60 96 US
+Doehler & Haas 1100001 0x61 97 DE
+Harman DCC 1100010 0x62 98 UK
+Lenz Elektronik GmbH 1100011 0x63 99 DE
+Trenes Digitales 1100100 0x64 100 ARG
+Bachmann Trains 1100101 0x65 101 US
+Integrated Signal Systems 1100110 0x66 102 US
+Nagasue System Design Office 1100111 0x67 103 JP
+TrainTech 1101000 0x68 104 NL
+Computer Dialysis France 1101001 0x69 105 FR
+Opherline1 1101010 0x6A 106 FR
+Phoenix Sound Systems, Inc. 1101011 0x6B 107 US
+Nagoden 1101100 0x6C 108 JP
+Viessmann Modellspielwaren GmbH 1101101 0x6D 109 DE
+AXJ Electronics 1101110 0x6E 110 CHN
+Haber & Koenig Electronics GmbH (HKE) 1101111 0x6F 111 AT
+LSdigital 1110000 0x70 112 DE
+QS Industries (QSI) 1110001 0x71 113 US
+Benezan Electronics 1110010 0x72 114 ESP
+Dietz Modellbahntechnik 1110011 0x73 115 DE
+MyLocoSound 1110100 0x74 116 AUS
+cT Elektronik 1110101 0x75 117 AT
+MÜT GmbH 1110110 0x76 118 DE
+W. S. Ataras Engineering 1110111 0x77 119 US
+csikos-muhely 1111000 0x78 120 HUN
+Berros 1111001 0x7A 122 NL
+Massoth Elektronik, GmbH 1111011 0x7B 123 DE
+DCC-Gaspar-Electronic 1111100 0x7C 124 HUN
+ProfiLok Modellbahntechnik GmbH 1111101 0x7D 125 DE
+Möllehem Gårdsproduktion 1111110 0x7E 126 SE
+Atlas Model Railroad Products 1111111 0x7F 127 US
+Frateschi Model Trains 10000000 0x80 128 BRA
+Digitrax 10000001 0x81 129 US
+cmOS Engineering 10000010 0x82 130 AUS
+Trix Modelleisenbahn 10000011 0x83 131 DE
+ZTC 10000100 0x84 132 UK
+Intelligent Command Control 10000101 0x85 133 US
+LaisDCC 10000110 0x86 134 CHN
+CVP Products 10000111 0x87 135 US
+NYRS 10001000 0x88 136 US
+Train ID Systems 10001010 0x8A 138 US
+RealRail Effects 10001011 0x8B 139 US
+Desktop Station 10001100 0x8C 140 JP
+Throttle-Up (Soundtraxx) 10001101 0x8D 141 US
+SLOMO Railroad Models 10001110 0x8E 142 JP
+Model Rectifier Corp. 10001111 0x8F 143 US
+DCC Train Automation 10010000 0x90 144 UK
+Zimo Elektronik 10010001 0x91 145 AT
+Rails Europ Express 10010010 0x92 146 FR
+Umelec Ing. Buero 10010011 0x93 147 CH
+BLOCKsignalling 10010100 0x94 148 UK
+Rock Junction Controls 10010101 0x95 149 US
+Wm. K. Walthers, Inc. 10010110 0x96 150 US
+Electronic Solutions Ulm GmbH 10010111 0x97 151 DE
+Digi-CZ 10011000 0x98 152 CZE
+Train Control Systems 10011001 0x99 153 US
+Dapol Limited 10011010 0x9A 154 UK
+Gebr. Fleischmann GmbH & Co. 10011011 0x9B 155 DE
+Nucky 10011100 0x9C 156 JP
+Kuehn Ing. 10011101 0x9D 157 DE
+Fucik 10011110 0x9E 158 CZE
+LGB (Ernst Paul Lehmann Patentwerk) 10011111 0x9F 159 DE
+MD Electronics 10100000 0xA0 160 DE
+Modelleisenbahn GmbH (formerly Roco) 10100001 0xA1 161 AT
+PIKO 10100010 0xA2 162 DE
+WP Railshops 10100011 0xA3 163 CA
+drM 10100100 0xA4 164 TWN
+Model Electronic Railway Group 10100101 0xA5 165 UK
+Maison de DCC 10100110 0xA6 166 JP
+Helvest Systems GmbH 10100111 0xA7 167 CH
+AuroTrains 10101010 0xAA 170 US/IT
+Arnold – Rivarossi 10101101 0xAD 173 DE
+BRAWA Modellspielwaren GmbH & Co. 10111010 0xBA 186 DE
+Con-Com GmbH 11001100 0xCC 204 AT
+Blue Digital 11100001 0xE1 225 POL
