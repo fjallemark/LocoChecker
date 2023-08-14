@@ -1,0 +1,13 @@
+<Project>
+	<PropertyGroup>
+		<Authors>Stefan Fjällemark</Authors>
+		<Product>Tellurian Trains</Product>
+		<Description>Module to verify loco decoder accoring to module operation standards.</Description>
+		<Version>0.1.0</Version>
+	</PropertyGroup>
+	<PropertyGroup>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+</Project>
