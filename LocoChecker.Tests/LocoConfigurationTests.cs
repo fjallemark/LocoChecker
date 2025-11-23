@@ -1,5 +1,3 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-
 namespace Tellurian.Trains.Modules.Tests;
 
 [TestClass]
@@ -35,7 +33,7 @@ public class LocoConfigurationTests
     public void SetAddress3Throws()
     {
         var target = new LocoConfiguration();
-        Assert.ThrowsException<ArgumentOutOfRangeException>(() => target.LocoAddress = 3);
+        Assert.Throws<ArgumentOutOfRangeException>(() => target.LocoAddress = 3);
     }
 
     [TestMethod]

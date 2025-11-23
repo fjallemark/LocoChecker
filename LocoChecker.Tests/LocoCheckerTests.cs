@@ -1,8 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-#pragma warning disable CS8629 // Nullable value type may be null.
-
-namespace Tellurian.Trains.Modules.Tests;
+﻿namespace Tellurian.Trains.Modules.Tests;
 
 [TestClass]
 public class LocoCheckerTests

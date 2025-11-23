@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.7.34003.232
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocoChecker", "LocoChecker\LocoChecker.csproj", "{764C44E2-A259-4A61-A2E9-3BF879268BA4}"
 EndProject
@@ -33,6 +33,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94AD33B1-9205-4088-B53A-F2842FC1A28E}
-		RESX_NeutralResourcesLanguage = en-GB
 	EndGlobalSection
 EndGlobal

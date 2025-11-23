@@ -1,6 +1,4 @@
-﻿#pragma warning disable CA1815 // Override equals and operator equals on value types
-
-namespace Tellurian.Trains.Modules;
+﻿namespace Tellurian.Trains.Modules;
 
 public struct LocoConfiguration
 {

@@ -1,6 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-namespace Tellurian.Trains.Modules.Tests;
+﻿namespace Tellurian.Trains.Modules.Tests;
 
 [TestClass]
 public class ManufacturerTests
